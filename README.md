@@ -13,7 +13,7 @@
 
 ### 📚 | Conhecimentos & Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)]()
 
 #
 
