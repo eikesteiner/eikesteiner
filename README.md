@@ -2,8 +2,10 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-- Atualmente graduando em **Engenharia de Software** no iCEV - Instituto de Ensino Superior
+- Disponível para vagas de estágio;
 - Inglês nível **B2**.
+- Atualmente graduando em **Engenharia de Software**;
+
 #
 
 ### 💻 | Redes Sociais
