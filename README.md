@@ -1,4 +1,4 @@
-## :spades:| Eike Steiner
+## Sobre mim
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
