@@ -2,6 +2,9 @@
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
+- Atualmente estudando Engenharia de Software
+- 
+
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
