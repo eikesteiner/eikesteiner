@@ -9,7 +9,6 @@
 
 ### 💻 | Redes Sociais
 
-- Se quiser me contactar ou tiver alguma dúvida, aqui estão minhas redes sociais
 
 
 #
