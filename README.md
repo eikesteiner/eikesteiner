@@ -1,4 +1,4 @@
-## | Eike Steiner 
+## :spades:| Eike Steiner 
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
