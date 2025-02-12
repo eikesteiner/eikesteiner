@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-#### Boas-vindas ao meu perfil. 👋 
+#### 👋 Boas-vindas
 
 Blablablablababalabla
 
