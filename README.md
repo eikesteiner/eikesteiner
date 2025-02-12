@@ -2,7 +2,7 @@
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
-- Atualmente estudando Engenharia de Software
+- Atualmente graduando em Engenharia de Software
 - 
 
 <!--
