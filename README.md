@@ -3,6 +3,8 @@
 `Desenvolvedor Web`, `Engenheiro de Software`
 
 - Atualmente graduando em Engenharia de Software;
+- Estudando linguagens de programação;
+- Projetos em andamento;
 
 
 <!--
