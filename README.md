@@ -6,9 +6,9 @@
 
 #
 
-### 📞 Links p/ Contato
+### 💻 | Redes Sociais
 
-[![Contato](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+jasjjhshjqs
 
 #
 
