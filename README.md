@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
+<p>Currently graduating in Software Engineering</p>
 <p>Atualmente graduando em Eng. de Software no iCEV.</p>
 
 #
