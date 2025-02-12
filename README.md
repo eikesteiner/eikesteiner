@@ -1,10 +1,12 @@
 ## 🚀  Eike Steiner
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
-👋 Boas-vindas ao meu perfil.
 
-- Graduando em Engenharia de Software;
-- Aprendendo Java;
+#### Boas-vindas ao meu perfil. 👋 
+
+
+
+
 
 # 
 
