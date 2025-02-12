@@ -2,15 +2,13 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-#### I. Informações Básicas
-
 <p>Atualmente estou graduando em Eng. de Software no iCEV</p>
-
-#### II. Contato
 
 #
 
+### 📞 Contato
 
+[![Contato](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 ### 📚 | Conhecimentos & Habilidades
