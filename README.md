@@ -10,7 +10,7 @@
 
 ### 💻 | Redes Sociais
 
-jasjjhshjqs
+
 
 #
 
