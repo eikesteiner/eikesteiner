@@ -4,9 +4,7 @@
 
  👋 Boas-vindas ao meu perfil
  
-- Graduando em **Eng de Software** no **iCEV**; 
-- Sou fluente em Inglês;
-- Estou sempre aprendendo;
+ Atualmente estou Graduando em **Eng de Software** no **iCEV**;
 
 #
 
