@@ -4,8 +4,8 @@
 
 #### Informações Básicas
 
-Blablablablababalabla
-
+- Graduando em Eng. de Software
+- 
 #### Contato
 
 #
