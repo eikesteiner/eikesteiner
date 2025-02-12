@@ -1,4 +1,4 @@
-## :mag:Eike Steiner
+## :book: Eike Steiner
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
