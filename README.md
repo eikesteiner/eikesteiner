@@ -4,7 +4,7 @@
 
 - Atualmente graduando em **Eng de Software** no **iCEV**; 
 - Estou sempre aprendendo;
-- Fluente em Inglês.
+- Sou fluente em Inglês.
 #
 
 ### 💻 | Redes Sociais
