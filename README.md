@@ -6,10 +6,11 @@
 
 #
 
-### 📞 Contato
+### 📞 Links p/ Contato
 
 [![Contato](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
+#
 
 ### 📚 | Conhecimentos & Habilidades
 
