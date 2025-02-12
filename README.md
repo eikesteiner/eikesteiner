@@ -3,7 +3,7 @@
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
 - Atualmente graduando em **Engenharia de Software** no **iCEV**;
-- Sempre aprendendo;
+- Estou sempre aprendendo;
 - Fluente em Inglês.
 #
 
