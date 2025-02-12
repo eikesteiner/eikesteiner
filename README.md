@@ -4,8 +4,8 @@
 
 #### Informações Básicas
 
-- Graduando em Eng. de Software
-- 
+<p>- Graduando em Eng. de Software</p>
+
 #### Contato
 
 #
