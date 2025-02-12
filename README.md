@@ -10,7 +10,7 @@
 
 ### Conhecimentos & Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,java)]()
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
