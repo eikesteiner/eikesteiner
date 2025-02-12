@@ -1,8 +1,8 @@
 ## 🤖 Eike Steiner
-
+**`Desenvolvedor Web`**
 #### 👋 Boas-vindas ao meu perfil
  
- Atualmente estou Graduando em **Eng de Software** no **iCEV**;
+<p> <b>-</b> Atualmente estou Graduando em <b>Eng de Software</b> no <b>iCEV</b> </p>
 
 #
 
