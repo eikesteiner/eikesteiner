@@ -1,4 +1,4 @@
-## :pushpin: Sobre mim
+## :pushpin: Eike Daniel
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
