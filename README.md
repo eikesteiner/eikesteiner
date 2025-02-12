@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-👋 **Boas-vindas ao meu perfil!**
-
 - Atualmente graduando em **Eng de Software** no **iCEV**; 
 - Sou fluente em Inglês;
 - Estou sempre aprendendo;
