@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-<p>aasdwadqwd</p>
+<p>Graduando em Engenharia de Software</p>
 
 # 
 
