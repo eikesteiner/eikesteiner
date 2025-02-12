@@ -1,4 +1,4 @@
-## 🤖 Eike Steiner
+## ﹥ Eike Steiner
 **`Desenvolvedor Web`, `Eng de Software`**
 
 ### Conhecimentos & Habilidades
