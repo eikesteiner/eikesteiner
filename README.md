@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-<p>Atualmente graduando em Eng. de Software no iCEV.</p>
+Atualmente graduando em **Engenharia de Software** no iCEV (Instituto de Ensino Superior)
 
 #
 
