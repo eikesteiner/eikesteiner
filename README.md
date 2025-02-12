@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-<p>Graduando em Engenharia de Software.</p>
-<p>Aprendendo Java</p>
+<p>- Graduando em Engenharia de Software.</p>
+<p>- Aprendendo Java</p>
 
 # 
 
