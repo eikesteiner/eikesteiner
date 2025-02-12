@@ -1,4 +1,4 @@
-## :book: Eike Steiner
+## Eike Steiner :book: 
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
