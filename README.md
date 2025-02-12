@@ -5,13 +5,6 @@
 - Graduando em **Eng de Software** no **iCEV**; 
 - Sou fluente em Inglês;
 - Estou sempre aprendendo;
-#
-
-### 💻 | Redes Sociais
-
-Linkedin
-
-
 
 #
 
@@ -20,6 +13,10 @@ Linkedin
 [![My Skills](https://skillicons.dev/icons?i=html,css)]()
 
 #
+
+### 💻 | Redes Sociais
+
+Linkedin
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
