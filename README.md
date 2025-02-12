@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-#### Informações Básicas
+#### I. Informações Básicas
 
 <p>- Graduando em Eng. de Software</p>
 
-#### Contato
+#### II. Contato
 
 #
 
