@@ -10,7 +10,7 @@
 
 ### 💻 | Redes Sociais
 
-- Aqui estão minhas redes sociais, fique à vontade para fazer quaisquer perguntas:
+- Se quiser me contactar ou tiver alguma dúvida, aqui estão minhas redes sociais
 
 
 #
