@@ -4,16 +4,18 @@
 
 #### Boas-vindas ao meu perfil. 👋 
 
+Blablablablababalabla
+
+#
 
 
 
 
-# 
-
-## 📚 Conhecimentos & Habilidades:
-
+### 📚 | Conhecimentos & Habilidades:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+#
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
