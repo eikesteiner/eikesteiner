@@ -1,4 +1,4 @@
-## :computer: Eike Daniel
+## :computer: Eike
 
 **`Desenvolvedor Web`**
 
