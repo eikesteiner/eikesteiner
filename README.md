@@ -9,6 +9,8 @@
 
 ### 💻 | Redes Sociais
 
+Linkedin
+
 
 
 #
