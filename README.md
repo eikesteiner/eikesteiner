@@ -2,7 +2,6 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-- Disponível para vagas de estágio;
 - Inglês nível **B2**.
 - Atualmente graduando em **Engenharia de Software**;
 - Sempre aprendendo e aperfeiçoando habilidades;
