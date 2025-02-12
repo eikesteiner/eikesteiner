@@ -1,9 +1,15 @@
-## :pushpin: Wiki
+## ⚗️ | Eike Daniel 
 
-`Desenvolvedor Web`, `Engenheiro de Software`
+**`Desenvolvedor Web`, `Engenheiro de Software`**
 
-<p>Estudando Java.</p>
+<p>aasdwadqwd</p>
 
+# 
+
+### Conhecimentos/Habilidades:
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
