@@ -1,7 +1,7 @@
-## 👋  Eike Steiner
+## 🚀  Eike Steiner
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
-Bem-vindo ao meu perfil. 
+👋 Boas-vindas ao meu perfil.
 
 - Graduando em Engenharia de Software;
 - Aprendendo Java;
