@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-- Inglês nível **B2**.
+- Inglês nível **B2**;
 - Atualmente graduando em **Engenharia de Software**;
-- Sempre aprendendo e aperfeiçoando habilidades;
+- Sempre aprendendo e aperfeiçoando habilidades.
 #
 
 ### 💻 | Redes Sociais
