@@ -1,9 +1,9 @@
-## Sobre mim
+## :pushpin: Sobre mim
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
 - Atualmente graduando em Engenharia de Software;
-- Estou aperfeiçoando  meus conhecimentos e aprendendo novas linguagens de programação.
+
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
