@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Web`, `Engenheiro de Software`**
 
-- Atualmente graduando em **Engenharia de Software** no **iCEV**
-- Sempre aprendendo e aperfeiçoando habilidades.
-- Inglês nível **B2**;
+- Atualmente graduando em **Engenharia de Software** no **iCEV**;
+- Sempre aprendendo e aperfeiçoando habilidades;
+- Fluente em Inglês.
 #
 
 ### 💻 | Redes Sociais
