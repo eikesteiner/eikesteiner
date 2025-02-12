@@ -4,7 +4,7 @@
 
 #### I. Informações Básicas
 
-<p>- Graduando em Eng. de Software</p>
+<p>Atualmente estou graduando em Eng. de Software no iCEV</p>
 
 #### II. Contato
 
