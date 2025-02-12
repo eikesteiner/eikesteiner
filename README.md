@@ -1,4 +1,4 @@
-## :book: | Eike Steiner 
+## :coffee: | Eike Steiner 
 
 `Desenvolvedor Web`, `Engenheiro de Software`
 
