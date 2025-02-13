@@ -1,6 +1,7 @@
 ## ﹥ Eike Steiner
 **`Desenvolvedor Web`, `Eng de Software`**
 
+I'm a web developer. Currently graduating on Software Engineering.
 Sou um desenvolvedor web. Atualmente graduando em Engenharia de Software.
 ### Conhecimentos & Habilidades
 
