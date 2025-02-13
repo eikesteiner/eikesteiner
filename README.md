@@ -1,5 +1,5 @@
 ## ﹥ Eike Steiner
-**`Web Developer`, `Software Engineering Student`**
+**`Web Developer`
 
 <p>I'm a web developer. Currently graduating on Software Engineering.</p>
 <p>Sou um desenvolvedor web. Atualmente graduando em Engenharia de Software.</p>
