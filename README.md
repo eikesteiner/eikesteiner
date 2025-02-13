@@ -1,6 +1,7 @@
 ## ﹥ Eike Steiner
 **`Desenvolvedor Web`, `Eng de Software`**
 
+Sou um desenvolvedor web. Atualmente graduando em Engenharia de Software.
 ### Conhecimentos & Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java)]()
