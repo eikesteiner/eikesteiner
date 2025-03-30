@@ -1,8 +1,7 @@
-## ﹥ Sobre mim
+## ﹥ About me
 **`Web Developer`**, **`Software Engineer`**
 
 <p>I'm a web developer. Currently graduating on Software Engineering.</p>
-<p>Sou um desenvolvedor web. Atualmente graduando em Engenharia de Software.</p>
 
 ### Languages & Tools
 
