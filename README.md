@@ -1,4 +1,4 @@
-## ﹥ About me
+## ﹥ Eike Steiner
 **`Web Developer`**, **`Software Engineer`**
 
 <p>I'm a web developer. Currently graduating on Software Engineering.</p>
