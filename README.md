@@ -1,7 +1,9 @@
 ## Eike Steiner
 **`Desenvolvedor Web`**, **`Freelancer`**
 
-<p>Currently graduating on Software Engineering.</p>
+<p>Estudante de Engenharia de Software</p>
+<p>Interessado em servidores, banco de dados, APIs, sistemas operacionais e IA</p>
+<p>Buscando oportunidades para aplicar e expandir meus conhecimentos</p>
 
 ### Languages & Tools
 
