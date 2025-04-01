@@ -1,4 +1,4 @@
-## ﹥ Eike Steiner
+## Eike Steiner
 **`Web Developer`**, **`Software Engineer`**
 
 <p>Currently graduating on Software Engineering.</p>
