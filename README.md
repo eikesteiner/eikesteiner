@@ -2,7 +2,7 @@
 **`Desenvolvedor Web`**, **`Freelancer`**
 
 <p>> Estudando Engenharia de Software;</p>
-<p>> Interessado em servidores, banco de dados, APIs, sistemas operacionais e IA;</p>
+<p>> Interessado em servidores, APIs, banco de dados, sistemas operacionais e IA;</p>
 <p>> Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
 
 ### Languages & Tools
