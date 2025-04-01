@@ -1,7 +1,7 @@
 ## Eike Steiner
 **`Web Developer`** **`Freelancer`**
 
-<p><strong>-<strong> Interessado em Servidores, APIs, Banco de Dados e Inteligência Artificial;</p>
+<p>- Interessado em Servidores, APIs, Banco de Dados e Inteligência Artificial;</p>
 <p>- Buscando oportunidades para aplicar e expandir meus conhecimentos;</p>
 <p>- Atualmente graduando em Engenharia de Software.</p>
  
