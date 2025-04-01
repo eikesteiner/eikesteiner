@@ -1,8 +1,9 @@
 ## Eike Steiner
 **`Web Developer`** **`Freelancer`**
 
-<p>> Interessado em servidores, APIs, banco de dados e IA; Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
-
+<p> Interessado em servidores, APIs, banco de dados e IA;
+ Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
+ 
 ### Linguagens & Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)]()
