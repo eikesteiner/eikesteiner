@@ -1,5 +1,5 @@
 ## Eike Steiner
-**`Web Developer`**, **`Freelancer`**
+**`Web Developer`** **`Freelancer`**
 
 <p>> Interessado em servidores, APIs, banco de dados e IA;</p>
 <p>> Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
