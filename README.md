@@ -1,5 +1,5 @@
 ## Eike Steiner
-**`Web Developer`**, **`Software Engineer`**
+**`Desenvolvedor Web`**, **`Freelancer`**
 
 <p>Currently graduating on Software Engineering.</p>
 
