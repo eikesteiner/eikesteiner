@@ -5,7 +5,7 @@
 <p>> Interessado em servidores, APIs, banco de dados, sistemas operacionais e IA;</p>
 <p>> Buscando oportunidades para aplicar e expandir meus conhecimentos.</p>
 
-### Languages & Tools
+### Linguagens & Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)]()
 
